@@ -6,10 +6,13 @@
 **Musik och arr** 
 * Björn Hallman
 
+**Illustratör** 
+* Marta Leonhardt
+
 **Medverkande**
 * Curt Appelgren - Draken
-* Alfred Byström - Bruno o Otto
-* Oliver Eriksson - Bruno o Otto
+* Albert Engström - Bruno o Otto
+* Oliver Bergström - Bruno o Otto
 * Alexander Gustavsson - Bruno o Otto
 * Monica Dominique - Häxan Surostygg
 * Tua Dominique - Häxan Visovänlig
