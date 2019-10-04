@@ -26,6 +26,5 @@
 * Göran Larsson
 * https://icons8.com
     
-**Sekretesspolicy**
-
-Appen varken bearbetar eller sparar någon information om slutanvändaren. Allt appen gör är att spela up musikfiler som är inbakade i appen.
+**Privacy Policy**
+* https://github.com/arserius/draksagan/blob/master/privacy.md
